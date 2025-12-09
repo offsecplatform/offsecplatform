@@ -1,4 +1,4 @@
-HTML Project lists:
+HTML & CSS Project lists:
 
 1. Personal Portfolio Website
 2. Responsive Landing Page
